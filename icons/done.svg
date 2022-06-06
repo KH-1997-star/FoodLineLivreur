@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33.059" height="21.059" viewBox="0 0 33.059 21.059">
+  <defs>
+    <filter id="Ligne_305" x="0" y="0.966" width="17.093" height="20.093" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ligne_306" x="4.034" y="0" width="29.025" height="21.025" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Groupe_17781" data-name="Groupe 17781" transform="translate(-307.453 -235.488)">
+    <g transform="matrix(1, 0, 0, 1, 307.45, 235.49)" filter="url(#Ligne_305)">
+      <line id="Ligne_305-2" data-name="Ligne 305" x1="4" y1="7" transform="translate(6.55 5.51)" fill="none" stroke="#3aa700" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 307.45, 235.49)" filter="url(#Ligne_306)">
+      <line id="Ligne_306-2" data-name="Ligne 306" y1="8" x2="16" transform="translate(10.55 4.51)" fill="none" stroke="#3aa700" stroke-linecap="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
